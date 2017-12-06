@@ -26,10 +26,21 @@
         .hidden {
         	display: none;
         }
-	</style>
-	<script>
+        .resultDiv {
+        	font-size: 1.2em;
+            font-family: Roboto, sans-serif;
+            display: inline-block;
+	        margin-left: 15%;
+	        margin-top: 2%;
+        }
 
-	</script>
+        ul {
+        	list-style-type: none;
+        }
+        li {
+        	margin-top: 5px;
+        }
+	</style>
 </head>
 
 <body>
@@ -39,8 +50,12 @@
 		<input type="text" id="query" placeholder="Search for Question Papers..."></input> 
 	</div>
 
+	<div class="adv"> 
+		<!-- <img src="http://www.iitbbs.ac.in/banner/banner_1497430928.jpg"/> -->
+	</div>
+	
 	<div class="resultDiv">
-		<ul>
+		<ul id="result">
 			
 		</ul>
 	</div>

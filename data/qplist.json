@@ -1,38 +1,119 @@
 [
   {
-    "School": "SES",
-    "Semester": "3",
-    "SubName": "Discrete Structures",
-    "SubCode": "CS2L001",
+    "School": "SBS",
+    "Semester": "1",
+    "SubName": "Mathematics - 1",
+    "SubCode": "MA1L001",
     "Paper": 0,
-    "Link": "https://static.metakgp.org/peqp/2000/Agriculture/Advanced%20Ground%20Water%20Hydrology.pdf",
+    "Link": "https://drive.google.com/file/d/10Ny0lXrqmVHxepFr1-PLAcfxkAqxwtEk/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SHSSM",
+    "Semester": "1",
+    "SubName": "Learning English",
+    "SubCode": "HS1L002",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1_Y640I2xK60cDYEdKjMJy6asq2tNpJV0/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SES",
+    "Semester": "1",
+    "SubName": "Electrical Technology",
+    "SubCode": "EE1L001",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1S1qBb-fkUq2wQG3ux4hvvPn1294zqOif/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SBS",
+    "Semester": "1",
+    "SubName": "Chemistry",
+    "SubCode": "CY1L001",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1jrDI2LSVY8c1jsq6jEztybcc2KGjhcl4/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Design of Machine Elements",
+    "SubCode": "ME3L002",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1fQDZkqVTW9OPuh3j4Cq0l0ikp0wIXgRv/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Casting, Welding and Forming (CWF)",
+    "SubCode": "ME3L003",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1hxHEPrix8DRXdlq30okvjHu3NJkh3c_9/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SES",
+    "Semester": "5",
+    "SubName": "Microcontroller and Embedded Systems",
+    "SubCode": "CS3L004",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1wIVaFnDkbKP9HQKY8Lq56s_T5oe3cYkg/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Heat Transfer",
+    "SubCode": "ME3L001",
+    "Paper": 0,
+    "Link": "https://drive.google.com/file/d/1svMeT-97arJ3vValIEKqhkSre7eMbDgr/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Design of Machine Elements",
+    "SubCode": "ME3L002",
+    "Paper": 1,
+    "Link": "https://drive.google.com/file/d/1u-NWUamGhqY2lhk4x08b8uVFORiwTpVf/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Casting, Welding and Forming (CWF)",
+    "SubCode": "ME3L003",
+    "Paper": 1,
+    "Link": "https://drive.google.com/file/d/1pe4RtYAUVfkTz08ToEZE86AxDxwyU31d/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SES",
+    "Semester": "5",
+    "SubName": "Microcontroller and Embedded Systems",
+    "SubCode": "CS3L004",
+    "Paper": 1,
+    "Link": "https://drive.google.com/file/d/1ZsBYJO-Ck35L1rL-ol8cK5hGP-FpvvVI/view?usp=sharing",
+    "Year": "2017"
+  },
+  {
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Systems and Controls",
+    "SubCode": "ME3L004",
+    "Paper": 1,
+    "Link": "https://drive.google.com/file/d/1yZNqZFEzv9eEAUj2CW2KFWOU7zP40keB/view?usp=sharing",
     "Year": "2017"
   },
     {
-    "School": "SES",
-    "Semester": "3",
-    "SubName": "Data Structures",
-    "SubCode": "CS2xxx",
-    "Paper": 0,
-    "Link": "https://static.metakgp.org/peqp/2000/Agriculture/Advanced%20Ground%20Water%20Hydrology.pdf",
-    "Year": "2017"
-  },
-    {
-    "School": "SES",
-    "Semester": "3",
-    "SubName": "Signal and Systems",
-    "SubCode": "EC2L001",
-    "Paper": 0,
-    "Link": "https://static.metakgp.org/peqp/2000/Agriculture/Advanced%20Ground%20Water%20Hydrology.pdf",
-    "Year": "2017"
-  },
-    {
-    "School": "SES",
-    "Semester": "3",
-    "SubName": "Introduction to Economics",
-    "SubCode": "CS2L001",
-    "Paper": 0,
-    "Link": "https://static.metakgp.org/peqp/2000/Agriculture/Advanced%20Ground%20Water%20Hydrology.pdf",
+    "School": "SMS",
+    "Semester": "5",
+    "SubName": "Heat Transfer",
+    "SubCode": "ME3L001",
+    "Paper": 1,
+    "Link": "https://drive.google.com/file/d/1FuILjVtP9A8AV-Js9IXH5Ld0r8pqdY_q/view?usp=sharing",
     "Year": "2017"
   }
 ]

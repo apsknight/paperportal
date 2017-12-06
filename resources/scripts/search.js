@@ -1,15 +1,27 @@
 $(document).ready(function(){
-	console.log("Loaded");
-	var a = "hello world".toLowerCase();
-	var b = "hello wor1d".toLowerCase();
-	console.log(a.score(b, 0.5));
+	$.getJSON("https://raw.githubusercontent.com/apsknight/paperportal/master/data/qplist.json", function(data) {
+		$('#query').keyup(function() {
+			$("ul").empty();
+			var toSearch = $('#query')[0].value;
 
-	$('#query').keyup(function() {
-		console.log($('#query').val());
-	});
+			console.log(toSearch);
+			// console.log($('#query').val());
+			// var toSearch = textBox;
+			var result = {};
+			$.each(data, function(index, obj) {
+				result[index] = toSearch.score(obj['SubName'] + ' ' + obj['Year'], 0.5);
+			});
 
-	$.getJSON("https://raw.githubusercontent.com/metakgp/mfqp/gh-pages/data/data.json", function(data) {
-		var first = data[57];
-		console.log(first['Department']);
+			keysSorted = Object.keys(result).sort(function(a,b){return result[b]-result[a]})
+			$.each(keysSorted, function(key, val) {
+				var sem;
+				if (data[val]['Paper'] == 0) sem = 'midsem';
+				else sem = 'endsem';
+				$("#result").append('<li><a href="'+data[val]['Link']+'" target=_blank>'+ data[val]['School'] + '  ~  ' + data[val]['SubCode'] + '  ~  '  + data[val]['SubName'] + '  ~  ' + data[val]['Year'] + '    ' + data[val]['Semester'] + 'rd Semester    ' + sem + '</a></li>');
+			});
+			if(toSearch == '') {
+				$("ul").empty();
+			}
+		});
 	});
 });
