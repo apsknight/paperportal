@@ -4,7 +4,7 @@ $(document).ready(function(){
 			$("ul").empty();
 			var toSearch = $('#query')[0].value;
 
-			console.log(toSearch);
+			// console.log(toSearch);
 			// console.log($('#query').val());
 			// var toSearch = textBox;
 			var result = {};
