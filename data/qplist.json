@@ -74,46 +74,10 @@
   {
     "School": "SMS",
     "Semester": "5",
-    "SubName": "Design of Machine Elements",
-    "SubCode": "ME3L002",
-    "Paper": 1,
-    "Link": "https://drive.google.com/file/d/1u-NWUamGhqY2lhk4x08b8uVFORiwTpVf/view?usp=sharing",
-    "Year": "2017"
-  },
-  {
-    "School": "SMS",
-    "Semester": "5",
-    "SubName": "Casting, Welding and Forming (CWF)",
-    "SubCode": "ME3L003",
-    "Paper": 1,
-    "Link": "https://drive.google.com/file/d/1pe4RtYAUVfkTz08ToEZE86AxDxwyU31d/view?usp=sharing",
-    "Year": "2017"
-  },
-  {
-    "School": "SES",
-    "Semester": "5",
-    "SubName": "Microcontroller and Embedded Systems",
-    "SubCode": "CS3L004",
-    "Paper": 1,
-    "Link": "https://drive.google.com/file/d/1ZsBYJO-Ck35L1rL-ol8cK5hGP-FpvvVI/view?usp=sharing",
-    "Year": "2017"
-  },
-  {
-    "School": "SMS",
-    "Semester": "5",
     "SubName": "Systems and Controls",
     "SubCode": "ME3L004",
     "Paper": 1,
     "Link": "https://drive.google.com/file/d/1yZNqZFEzv9eEAUj2CW2KFWOU7zP40keB/view?usp=sharing",
     "Year": "2017"
   },
-    {
-    "School": "SMS",
-    "Semester": "5",
-    "SubName": "Heat Transfer",
-    "SubCode": "ME3L001",
-    "Paper": 1,
-    "Link": "https://drive.google.com/file/d/1FuILjVtP9A8AV-Js9IXH5Ld0r8pqdY_q/view?usp=sharing",
-    "Year": "2017"
-  }
 ]
